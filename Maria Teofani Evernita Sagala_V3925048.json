@@ -1,0 +1,610 @@
+{
+    "media_sosial": [
+        {
+            "id": 1,
+            "platform": "Twitter",
+            "konten": "Demo besar akan dilakukan besok di alun-alun kota",
+            "sentimen": "provokatif"
+        },
+        {
+            "id": 2,
+            "platform": "Instagram",
+            "konten": "Pemerintah gagal, saatnya turun ke jalan!",
+            "sentimen": "negatif"
+        },
+        {
+            "id": 3,
+            "platform": "Twitter",
+            "konten": "Hati-hati hoax beredar terkait kerusuhan",
+            "sentimen": "netral"
+        },
+        {
+            "id": 4,
+            "platform": "Instagram",
+            "konten": "Bakar ban di depan gedung DPR!",
+            "sentimen": "provokatif"
+        },
+        {
+            "id": 5,
+            "platform": "Tiktok",
+            "konten": "Jangan percaya isu yang beredar, tetap tenang",
+            "sentimen": "positif"
+        },
+        {
+            "id": 6,
+            "platform": "Tiktok",
+            "konten": "Ada provokasi di pasar malam",
+            "sentimen": "provokatif"
+        },
+        {
+            "id": 7,
+            "platform": "Tiktok",
+            "konten": "Video keributan diunggah ulang",
+            "sentimen": "negatif"
+        },
+        {
+            "id": 8,
+            "platform": "Instagram",
+            "konten": "Polisi sudah siaga di lokasi",
+            "sentimen": "informasi"
+        },
+        {
+            "id": 9,
+            "platform": "Twitter",
+            "konten": "Massa mulai berkumpul di simpang lima",
+            "sentimen": "netral"
+        },
+        {
+            "id": 10,
+            "platform": "Facebook",
+            "konten": "Waspada hoax kerusuhan!",
+            "sentimen": "positif"
+        },
+        {
+            "id": 11,
+            "platform": "Twitter",
+            "konten": "Bentrokan tidak bisa dihindari",
+            "sentimen": "negatif"
+        },
+        {
+            "id": 12,
+            "platform": "Tiktok",
+            "konten": "Bawa spanduk dan poster ke lapangan!",
+            "sentimen": "provokatif"
+        },
+        {
+            "id": 13,
+            "platform": "Twitter",
+            "konten": "Demo damai saja, jangan anarkis",
+            "sentimen": "positif"
+        },
+        {
+            "id": 14,
+            "platform": "Tiktok",
+            "konten": "Ada korban luka-luka",
+            "sentimen": "negatif"
+        },
+        {
+            "id": 15,
+            "platform": "Twitter",
+            "konten": "Kerumunan mulai bubar",
+            "sentimen": "positif"
+        },
+        {
+            "id": 16,
+            "platform": "Facebook",
+            "konten": "Aksi balas dendam direncanakan",
+            "sentimen": "provokatif"
+        },
+        {
+            "id": 17,
+            "platform": "Instagram",
+            "konten": "Tolong kirim bantuan medis",
+            "sentimen": "informasi"
+        },
+        {
+            "id": 18,
+            "platform": "Tiktok",
+            "konten": "Video pengerusakan fasilitas umum viral",
+            "sentimen": "negatif"
+        },
+        {
+            "id": 19,
+            "platform": "Twitter",
+            "konten": "Polisi menenangkan massa",
+            "sentimen": "positif"
+        },
+        {
+            "id": 20,
+            "platform": "Facebook",
+            "konten": "Situasi mulai kondusif",
+            "sentimen": "positif"
+        },
+        {
+            "id": 21,
+            "platform": "Twitter",
+            "konten": "Hashtag #Reformasi trending",
+            "sentimen": "netral"
+        },
+        {
+            "id": 22,
+            "platform": "Tiktok",
+            "konten": "Aksi mulai ricuh",
+            "sentimen": "negatif"
+        },
+        {
+            "id": 23,
+            "platform": "Twitter",
+            "konten": "Seruan aksi tambahan hari ini",
+            "sentimen": "provokatif"
+        },
+        {
+            "id": 24,
+            "platform": "Twitter",
+            "konten": "Media mulai meliput lokasi",
+            "sentimen": "informasi"
+        },
+        {
+            "id": 25,
+            "platform": "Tiktok",
+            "konten": "Hoax ditepis oleh pihak berwenang",
+            "sentimen": "positif"
+        }
+    ],
+    "video_cctv_drone": [
+        {
+            "id": 1,
+            "lokasi": "Alun-alun kota",
+            "jumlah_orang": 250,
+            "aktivitas": "kerumunan"
+        },
+        {
+            "id": 2,
+            "lokasi": "Jalan utama",
+            "jumlah_orang": 100,
+            "aktivitas": "demo"
+        },
+        {
+            "id": 3,
+            "lokasi": "Pasar tradisional",
+            "jumlah_orang": 70,
+            "aktivitas": "bentrokan kecil"
+        },
+        {
+            "id": 4,
+            "lokasi": "Depan gedung DPR",
+            "jumlah_orang": 500,
+            "aktivitas": "demo besar"
+        },
+        {
+            "id": 5,
+            "lokasi": "Terminal bus",
+            "jumlah_orang": 30,
+            "aktivitas": "normal"
+        },
+        {
+            "id": 6,
+            "lokasi": "Pertigaan jalan",
+            "jumlah_orang": 200,
+            "aktivitas": "blokade"
+        },
+        {
+            "id": 7,
+            "lokasi": "Lapangan olahraga",
+            "jumlah_orang": 150,
+            "aktivitas": "orasi"
+        },
+        {
+            "id": 8,
+            "lokasi": "Taman kota",
+            "jumlah_orang": 50,
+            "aktivitas": "berkumpul"
+        },
+        {
+            "id": 9,
+            "lokasi": "Kantor wali kota",
+            "jumlah_orang": 300,
+            "aktivitas": "demo"
+        },
+        {
+            "id": 10,
+            "lokasi": "Simpang empat",
+            "jumlah_orang": 120,
+            "aktivitas": "jalan ditutup"
+        },
+        {
+            "id": 11,
+            "lokasi": "Jembatan utama",
+            "jumlah_orang": 40,
+            "aktivitas": "normal"
+        },
+        {
+            "id": 12,
+            "lokasi": "Kawasan industri",
+            "jumlah_orang": 90,
+            "aktivitas": "mogok kerja"
+        },
+        {
+            "id": 13,
+            "lokasi": "Stasiun kereta",
+            "jumlah_orang": 60,
+            "aktivitas": "antrian"
+        },
+        {
+            "id": 14,
+            "lokasi": "Depan mall",
+            "jumlah_orang": 75,
+            "aktivitas": "bentrokan"
+        },
+        {
+            "id": 15,
+            "lokasi": "Gedung pemerintah",
+            "jumlah_orang": 180,
+            "aktivitas": "protes"
+        },
+        {
+            "id": 16,
+            "lokasi": "Depan sekolah",
+            "jumlah_orang": 25,
+            "aktivitas": "normal"
+        },
+        {
+            "id": 17,
+            "lokasi": "Bundaran pusat",
+            "jumlah_orang": 400,
+            "aktivitas": "kerumunan"
+        },
+        {
+            "id": 18,
+            "lokasi": "Jalan tol",
+            "jumlah_orang": 0,
+            "aktivitas": "jalan kosong"
+        },
+        {
+            "id": 19,
+            "lokasi": "Depan pabrik",
+            "jumlah_orang": 130,
+            "aktivitas": "unjuk rasa"
+        },
+        {
+            "id": 20,
+            "lokasi": "Terminal kecil",
+            "jumlah_orang": 15,
+            "aktivitas": "normal"
+        },
+        {
+            "id": 21,
+            "lokasi": "Kawasan wisata",
+            "jumlah_orang": 300,
+            "aktivitas": "padat"
+        },
+        {
+            "id": 22,
+            "lokasi": "Lapangan parkir",
+            "jumlah_orang": 60,
+            "aktivitas": "ricuh"
+        },
+        {
+            "id": 23,
+            "lokasi": "Kampung padat",
+            "jumlah_orang": 80,
+            "aktivitas": "kerumunan"
+        },
+        {
+            "id": 24,
+            "lokasi": "Depan bank",
+            "jumlah_orang": 45,
+            "aktivitas": "normal"
+        },
+        {
+            "id": 25,
+            "lokasi": "Area tol",
+            "jumlah_orang": 20,
+            "aktivitas": "tertahan"
+        }
+    ],
+    "sensor_iot": [
+        {
+            "id": 101,
+            "tipe": "mikrofon",
+            "data": "teriakan keras",
+            "level": 85
+        },
+        {
+            "id": 102,
+            "tipe": "sensor_getar",
+            "data": "getaran kuat",
+            "level": 70
+        },
+        {
+            "id": 103,
+            "tipe": "gps",
+            "data": "lokasi",
+            "level": 2
+        },
+        {
+            "id": 104,
+            "tipe": "accelerometer",
+            "data": "percepatan mendadak",
+            "level": 90
+        },
+        {
+            "id": 105,
+            "tipe": "mikrofon",
+            "data": "benturan benda",
+            "level": 75
+        },
+        {
+            "id": 106,
+            "tipe": "sensor_getar",
+            "data": "ledakan kecil",
+            "level": 95
+        },
+        {
+            "id": 107,
+            "tipe": "gps",
+            "data": "rute patroli normal",
+            "level": 1
+        },
+        {
+            "id": 108,
+            "tipe": "accelerometer",
+            "data": "rem mendadak",
+            "level": 80
+        },
+        {
+            "id": 109,
+            "tipe": "mikrofon",
+            "data": "suara massa",
+            "level": 65
+        },
+        {
+            "id": 110,
+            "tipe": "sensor_getar",
+            "data": "tidak ada getaran",
+            "level": 0
+        },
+        {
+            "id": 111,
+            "tipe": "gps",
+            "data": "jalan macet total",
+            "level": 1
+        },
+        {
+            "id": 112,
+            "tipe": "accelerometer",
+            "data": "kecepatan stabil",
+            "level": 50
+        },
+        {
+            "id": 113,
+            "tipe": "mikrofon",
+            "data": "sirene polisi",
+            "level": 95
+        },
+        {
+            "id": 114,
+            "tipe": "sensor_getar",
+            "data": "keributan ringan",
+            "level": 30
+        },
+        {
+            "id": 115,
+            "tipe": "gps",
+            "data": "lokasi darurat",
+            "level": 1
+        },
+        {
+            "id": 116,
+            "tipe": "accelerometer",
+            "data": "percepatan",
+            "level": 100
+        },
+        {
+            "id": 117,
+            "tipe": "mikrofon",
+            "data": "hening",
+            "level": 5
+        },
+        {
+            "id": 118,
+            "tipe": "sensor_getar",
+            "data": "aktivitas normal",
+            "level": 10
+        },
+        {
+            "id": 119,
+            "tipe": "gps",
+            "data": "lokasi",
+            "level": 2
+        },
+        {
+            "id": 120,
+            "tipe": "accelerometer",
+            "data": "berbelok tajam",
+            "level": 70
+        },
+        {
+            "id": 121,
+            "tipe": "mikrofon",
+            "data": "keributan massa",
+            "level": 80
+        },
+        {
+            "id": 122,
+            "tipe": "sensor_getar",
+            "data": "getaran berat",
+            "level": 85
+        },
+        {
+            "id": 123,
+            "tipe": "gps",
+            "data": "kendaraan berhenti darurat",
+            "level": 1
+        },
+        {
+            "id": 124,
+            "tipe": "accelerometer",
+            "data": "guncangan keras",
+            "level": 95
+        },
+        {
+            "id": 125,
+            "tipe": "mikrofon",
+            "data": "ledakan besar",
+            "level": 100
+        }
+    ],
+    "data_lokasi_waktu": [
+        {
+            "id": 201,
+            "timestamp": "2025-09-18T10:00:00Z",
+            "lokasi": "Simpang lima",
+            "device_id": "CCTV001"
+        },
+        {
+            "id": 202,
+            "timestamp": "2025-09-18T10:05:00Z",
+            "lokasi": "Pasar besar",
+            "device_id": "CCTV002"
+        },
+        {
+            "id": 203,
+            "timestamp": "2025-09-18T10:10:00Z",
+            "lokasi": "Depan DPR",
+            "device_id": "DRONE01"
+        },
+        {
+            "id": 204,
+            "timestamp": "2025-09-18T10:15:00Z",
+            "lokasi": "Terminal bus",
+            "device_id": "CCTV003"
+        },
+        {
+            "id": 205,
+            "timestamp": "2025-09-18T10:20:00Z",
+            "lokasi": "Lapangan kota",
+            "device_id": "DRONE02"
+        },
+        {
+            "id": 206,
+            "timestamp": "2025-09-18T10:25:00Z",
+            "lokasi": "Jalan tol",
+            "device_id": "GPS001"
+        },
+        {
+            "id": 207,
+            "timestamp": "2025-09-18T10:30:00Z",
+            "lokasi": "Bundaran utama",
+            "device_id": "CCTV004"
+        },
+        {
+            "id": 208,
+            "timestamp": "2025-09-18T10:35:00Z",
+            "lokasi": "Kantor wali kota",
+            "device_id": "DRONE03"
+        },
+        {
+            "id": 209,
+            "timestamp": "2025-09-18T10:40:00Z",
+            "lokasi": "Depan mall",
+            "device_id": "CCTV005"
+        },
+        {
+            "id": 210,
+            "timestamp": "2025-09-18T10:45:00Z",
+            "lokasi": "Jembatan kota",
+            "device_id": "CCTV006"
+        },
+        {
+            "id": 211,
+            "timestamp": "2025-09-18T10:50:00Z",
+            "lokasi": "Kawasan industri",
+            "device_id": "CCTV007"
+        },
+        {
+            "id": 212,
+            "timestamp": "2025-09-18T10:55:00Z",
+            "lokasi": "Depan sekolah",
+            "device_id": "CCTV008"
+        },
+        {
+            "id": 213,
+            "timestamp": "2025-09-18T11:00:00Z",
+            "lokasi": "Bundaran kecil",
+            "device_id": "DRONE04"
+        },
+        {
+            "id": 214,
+            "timestamp": "2025-09-18T11:05:00Z",
+            "lokasi": "Pasar malam",
+            "device_id": "CCTV009"
+        },
+        {
+            "id": 215,
+            "timestamp": "2025-09-18T11:10:00Z",
+            "lokasi": "Simpang empat",
+            "device_id": "CCTV010"
+        },
+        {
+            "id": 216,
+            "timestamp": "2025-09-18T11:15:00Z",
+            "lokasi": "Depan pabrik",
+            "device_id": "DRONE05"
+        },
+        {
+            "id": 217,
+            "timestamp": "2025-09-18T11:20:00Z",
+            "lokasi": "Kampung padat",
+            "device_id": "CCTV011"
+        },
+        {
+            "id": 218,
+            "timestamp": "2025-09-18T11:25:00Z",
+            "lokasi": "Area tol",
+            "device_id": "GPS002"
+        },
+        {
+            "id": 219,
+            "timestamp": "2025-09-18T11:30:00Z",
+            "lokasi": "Depan bank",
+            "device_id": "CCTV012"
+        },
+        {
+            "id": 220,
+            "timestamp": "2025-09-18T11:35:00Z",
+            "lokasi": "Taman kota",
+            "device_id": "DRONE06"
+        },
+        {
+            "id": 221,
+            "timestamp": "2025-09-18T11:40:00Z",
+            "lokasi": "Stasiun kereta",
+            "device_id": "CCTV013"
+        },
+        {
+            "id": 222,
+            "timestamp": "2025-09-18T11:45:00Z",
+            "lokasi": "Terminal kecil",
+            "device_id": "CCTV014"
+        },
+        {
+            "id": 223,
+            "timestamp": "2025-09-18T11:50:00Z",
+            "lokasi": "Lapangan olahraga",
+            "device_id": "DRONE07"
+        },
+        {
+            "id": 224,
+            "timestamp": "2025-09-18T11:55:00Z",
+            "lokasi": "Depan kantor desa",
+            "device_id": "CCTV015"
+        },
+        {
+            "id": 225,
+            "timestamp": "2025-09-18T12:00:00Z",
+            "lokasi": "Jalan protokol",
+            "device_id": "CCTV016"
+        }
+    ]
+}
